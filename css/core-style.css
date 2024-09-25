@@ -116,7 +116,7 @@ a:focus {
 .questions-area {
     padding: 0 15px;
     position: absolute;
-    bottom: 100px;
+    bottom: 45%;
     z-index: 15;
     width: 100%;
     height: auto;

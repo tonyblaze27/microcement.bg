@@ -21,7 +21,7 @@
             $nextItem = $firstItem;
         }
         $nextItem.addClass("question-show");
-    }, 500);
+    }, 1150);
 
     // Fullscreen Active Code
     $window.on('resizeEnd', function () {
